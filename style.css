@@ -64,7 +64,7 @@ section h2 {
 }
 
 footer {
-  background-color: #000;
+  background-color: rgba(12, 13, 14, 0.295);
   color: #ccc;
   padding: 20px;
   text-align: center;
